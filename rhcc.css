@@ -1,0 +1,16 @@
+div#pagelet_trending_tags_and_topics {
+    display: none !important;
+}
+
+div#pagelet_games_rhc {
+    display: none !important;
+}
+
+.egoOrganicColumn {
+    /* padding-top: 0px !important; */
+    padding-bottom: 0px !important;
+}
+
+.home_right_column {
+    min-height: 0px !important;
+}

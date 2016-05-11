@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Facebook right-hand card cleanup",
+  "description": "hide trending, games",
+  "version": "0.3",
+  "key": "21HjkTPc8rblnFdguS1MHNN022lzX3VN/pJwd6Jclvo=",
+  "content_scripts": [ {
+    "css": [ "rhcc.css" ],
+    "matches": [ "https://www.facebook.com/*" ],
+    "exclude_globs": [  ],
+    "exclude_matches": [  ],
+    "include_globs": [  ]
+  } ]
+}
